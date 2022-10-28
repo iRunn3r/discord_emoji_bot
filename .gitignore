@@ -1,0 +1,8 @@
+# Python stuff
+Pipfile.lock
+
+# Env variables
+.env
+
+# IDE files
+.idea/*
